@@ -1,0 +1,42 @@
+
+    .copy_right_footer
+    {
+    
+        position:fixed;
+        bottom:0;
+        color:black;
+        text-align:center;
+        width:100%;
+        line-height: 4;
+       background-color: burlywood;
+    }
+    
+    
+    canvas 
+    
+    {
+    
+    border:5px dotted greenyellow;
+    border-radius:10px;
+    box-shadow:5px 5px 5px grey;
+    
+    }
+    
+    
+    .note
+    {
+    
+        color:white;
+    
+    }
+    #title{
+
+        color:blue;
+        width:100%;
+        box-shadow:5px 5px 5px grey;
+        margin:0px;
+        margin-bottom: 10px;
+        font-size:30px;
+        font-weight:bold;
+    }
+
